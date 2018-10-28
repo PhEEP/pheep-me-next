@@ -2,6 +2,13 @@
   "dependencies": {
     "next": "^7.0.2",
     "react": "^16.6.0",
-    "react-dom": "^16.6.0"
+    "react-dom": "^16.6.0",
+    "typography": "^0.16.17",
+    "typography-theme-twin-peaks": "^0.15.11"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   }
 }
